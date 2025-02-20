@@ -1,4 +1,4 @@
-var websitePrivacyPage = "https://mycodelesswebsite.com/privacy-policy-terms-conditions/";
+var websitePrivacyPage = "https://www.inspiredex.co.za/contact-us/";
 var unknownCookieText = ["Unknown", "This cookie information is unknown"];
 
 var categoryText = ["Necessary", "Preferences", "Statistics", "Marketing", "Unclassified"];
